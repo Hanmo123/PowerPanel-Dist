@@ -1,0 +1,1 @@
+import{d as t,c1 as u,c2 as s,J as n,p as a,c3 as r}from"./index.1cac1bad.js";const m=t({__name:"AdminView",setup(c){const e=u();return e.listen(()=>{e.is_admin||(window.message.error("\u4EC5\u7BA1\u7406\u5458\u53EF\u67E5\u770B\u6B64\u9875\u9762"),s().push("/"))}),(i,p)=>{const o=r("RouterView");return a(),n(o)}}});export{m as default};
